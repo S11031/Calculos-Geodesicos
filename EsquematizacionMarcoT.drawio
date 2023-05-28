@@ -1,67 +1,196 @@
-<mxfile host="app.diagrams.net" modified="2023-05-28T12:33:03.911Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="BWeP6G2kAr8g37hbyyVy" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-28T15:27:30.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ep5zu3MzrnIwnD5uoLhu" version="21.3.4" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="1223" dy="1231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5560" dy="3156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_5mSTuPxr-ZiKRkBDSY7-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;sketch=1;disableMultiStroke=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="540" height="440" as="geometry" />
+        <mxCell id="40bGwvFPC04SSGKGID5u-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-3" target="40bGwvFPC04SSGKGID5u-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <object label="TO DO" status="New" id="_5mSTuPxr-ZiKRkBDSY7-2">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-1">
-            <mxGeometry y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 1&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-3">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 2&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-4">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 3&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-5">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
-            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="DOING" status="In progress" id="_5mSTuPxr-ZiKRkBDSY7-6">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#006600;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-1">
-            <mxGeometry x="180" y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 4&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-7">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-6">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 5&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-8">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-6">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="DONE" status="Completed" id="_5mSTuPxr-ZiKRkBDSY7-9">
-          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-1">
-            <mxGeometry x="360" y="28" width="180" height="412" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 6&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-10">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-9">
-            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 7&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-11">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-9">
-            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="Task 8&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;%status%&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-12">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-9">
-            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
-          </mxCell>
-        </object>
+        <mxCell id="40bGwvFPC04SSGKGID5u-3" value="Esquematización del marco teórico" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="335" y="-120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-6" target="40bGwvFPC04SSGKGID5u-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="300" />
+              <mxPoint x="436" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-6" target="40bGwvFPC04SSGKGID5u-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-600" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-6" target="40bGwvFPC04SSGKGID5u-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-6" target="40bGwvFPC04SSGKGID5u-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1435" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-6" value="&lt;h1&gt;Electromagnetismo&lt;/h1&gt;&lt;p&gt;Es una rama de la física que estudia la relación que existe entre la electricidad y magnetismo, esta además describe como las cargas eléctricas pueden intercatuar con los campos magnétivcos y las fuerzas presentes en estos campos.&lt;/p&gt;" style="text;html=1;strokeColor=#B09500;fillColor=#e3c800;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="293" y="10" width="265" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-7" target="40bGwvFPC04SSGKGID5u-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Campo magnético de la tierra y sus componentes&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;La existencia del campo magnético de la tierra ha sido un tema de estudio que ha sido abordado desde hace mucho tiempo, el uso de esta aparece en el Occidente en el siglo XII, aunque podría ser que haya existido desde hace ya tiempo atrás en la china.&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="301.25" y="295" width="267.5" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-11" target="40bGwvFPC04SSGKGID5u-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306.29999999999995" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="435" y="710" />
+              <mxPoint x="-120" y="710" />
+              <mxPoint x="-120" y="835" />
+              <mxPoint x="-115" y="835" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-11" target="40bGwvFPC04SSGKGID5u-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="710" />
+              <mxPoint x="145" y="710" />
+              <mxPoint x="145" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-11" target="40bGwvFPC04SSGKGID5u-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="870" />
+              <mxPoint x="468" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-11" target="40bGwvFPC04SSGKGID5u-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="710" />
+              <mxPoint x="683" y="710" />
+              <mxPoint x="683" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-11" target="40bGwvFPC04SSGKGID5u-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="710" />
+              <mxPoint x="960" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-11" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Ideas del campo magnético de la tierra&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="251.25" y="580" width="367.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-15" value="&lt;h1&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Alejandro Neckam&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Escribe acerca del primer acercamiento que se tiene del campo electromagnético de la tierra durante su estadía en el monasterio de albano en 1187.&lt;/p&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-220.39" y="750" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-16" value="&lt;h1&gt;Martin Cortés&lt;/h1&gt;&lt;div&gt;Describe por primera vez en 1551 la declinación magnética que está presente en la tierra y la cual fue observada por navegantes españoles y portugueses, además de esto en los manuscritos de este navegante distingue los polos magnéticos.&lt;/div&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="10" y="745" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-18" value="&lt;h1&gt;Robin Norman&lt;/h1&gt;&lt;p&gt;Describió el fenómeno de la inclinación magnético que fue expuesto en un opúsculo publicado en Londres en 1576&lt;/p&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="325.5" y="750" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-22" value="&lt;h1&gt;William Gilbert&lt;/h1&gt;&lt;p&gt;Escribre el primer tratado de electromagnetismo&amp;nbsp; titulado &quot;de magnete&quot; en 1600 que es considerado el primer escrito oficial del electromagnetismo en la tierra en el cual describe a la tierra como una esfera de magnetita y afirma que el globo terráqueo es un inmerso imán&lt;/p&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="568.75" y="750" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-24" value="&lt;h1&gt;Wilhem Gauss&lt;/h1&gt;&lt;p&gt;En 1832 establece el primer observatorio de electromagnetismo en el mundo contribuyendo así al potencial geomagnético de la tierra además de publicar una obra sobre el magnetismo terrestre en 1839&lt;/p&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="860" y="750" width="245" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-26" target="40bGwvFPC04SSGKGID5u-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-26" value="&lt;h1&gt;Componentes&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Para estudiar los componentes de la intensidad del campo magnético se tiene que tomar en cuenta los siguientes conceptos&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="225" width="355" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-28" target="40bGwvFPC04SSGKGID5u-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-28" target="40bGwvFPC04SSGKGID5u-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-28" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Se debe tomar en cuenta un punto de superficie el cual tiene&amp;nbsp; una superficie de refefrencia X,Y,Z&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="380" width="325" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-31" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;También se puede tomar en dirección Norte, Este, Nadir o sistema basado en el norte geográfico.&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="380" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-33" target="40bGwvFPC04SSGKGID5u-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-33" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;Con respecto a esto se puede medir la intensidad magnética&amp;nbsp; (F) y su proyección denominada (H)&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-825" y="550" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-35" target="40bGwvFPC04SSGKGID5u-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-35" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;La dirección de H puede señalar el norte magnético y el ángilo que forma con el norte geográfico se puede considerar como (D) que es la declinación magnética&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-832.5" y="670" width="465" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-40" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;Mediante las siguientes ecuaciones se puede ver como se relacionan todas estas cantidades&lt;/h1&gt;" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="820" width="395" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="-690.4" y="868" width="180.79" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-43" target="40bGwvFPC04SSGKGID5u-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-43" target="40bGwvFPC04SSGKGID5u-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-43" value="&lt;h1&gt;Campo magnético de un dipolo&lt;/h1&gt;&lt;p&gt;El campo magnético de la tierra se puede aproximar a un dipolo y se tiene que el dipolo está en el centro de la tierra con una inclinación de 11.5°, el polo negativo corresponde al polo norte.&lt;/p&gt;" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-339.62" y="225" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-45" target="40bGwvFPC04SSGKGID5u-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-45" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;El campo magnético dipolar se puede formar por una corriente eléctrica que circula por una espira de área s que viene dada por la siguiente ecuación&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-357.12" y="420" width="325" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAaCAYAAAAQXsqGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHBSURBVFhH7ZixkgFBEIZ77wIZEZlIRiYTqJJ5Ap5AJMMDWA8gJFMl5glkJIhEeAA8gUzk9u+buVvHlVY1e1VOf1Vb88/smLL/dvfOrncOIOUub6ZV7vAyRm02G9rv96b3OC9jVC6Xo+PxaHqPozVKiNYoIWqUEDVKiBolRI0SokYJeertQbPZpEKhQJVKhfvj8Zg3lel0mvt23AVPHVGTyeTLDN/3efcN85LJJGuXPK1R0+mUd9uW7XZr1Ccuowm8B3fCNzoSkA44YrEYDQYDWq1WnC7VapUWiwWVy2UzkzhtDocDzWYzisfjrE+nEyUSCTPjm+FwSJlMhtey9Pt9yufzVCwWKZVKmVE3/ElE4e7jgkqlEi2XSx6r1+tsRhi8i8FUpE2r1WINc2/R6XQuTEYE9Xo9qtVqZsQxKOZR0mg0zqPRiHW73b6pw6zXaz6s3u12rMNg7Le/HhjGa7sm8qceUiwwhLXnebi6K22x0QRQc7LZLLf29xY7z1YNtFb/POcMGBUliCgwn88vIigw4Wa0SAhHDaIOa3W7XV4f52xEuuRffWZBLUQdjAL9HiVEX2GEqFFC1CghapQQNUoE0QczS8s/eOHv4gAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="530" width="170.77" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-49" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;Las líneas de fuerza del campo del dipolo siguen la dirección del polo positivo del dipolo y estas sirven para observar la variación del campo magnético&lt;/h1&gt;" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="178.75" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-51" value="&lt;h1&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Coordenadas geomagnéticas&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Además de esto las características más importantes de este campo son las coordenadas geomagnéticas las cuales son las siguientes:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#BD7000;fillColor=#f0a30a;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-25.63" y="225" width="290" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-53" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="10.879999999999995" y="367" width="217" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-54" target="40bGwvFPC04SSGKGID5u-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="40bGwvFPC04SSGKGID5u-54" target="40bGwvFPC04SSGKGID5u-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-54" value="&lt;h1&gt;Análisis armónico del campo geomagnético&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;El campo geomagnético podría&amp;nbsp; dividirse en dos partes, uno campo generado por interior de la tierra y otro campo generado por el exterior de la tierra&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="247" width="330" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-56" value="&lt;h1&gt;Campo interno&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;es debido a procesos en el interior del núcleo terrestre&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="550" width="160" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="40bGwvFPC04SSGKGID5u-58" value="&lt;h1&gt;Campo Externo&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;el campo externo tiene su origen en la ionosfera y la magnetosfera&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#3A5431;fillColor=#6d8764;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="550" width="160" height="175" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
